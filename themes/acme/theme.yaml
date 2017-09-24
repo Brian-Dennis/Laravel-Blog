@@ -1,0 +1,15 @@
+name: Acme
+description: 'Simple Bootswatch theme'
+author: 'Brian Dennis'
+homepage: 'https://www.linkedin.com/in/briandennis-web-developer/'
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: Acme
+    site_description:
+      label: Site description
+      comment: the global website description
+      default: This Site is soon to be a full featured development application for blogging with will be built with OctoberCMS on top of Laravel. This application will be built by myself.
